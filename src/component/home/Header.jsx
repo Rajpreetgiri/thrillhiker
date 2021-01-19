@@ -36,7 +36,7 @@ function Header() {
                                     <div className="collapse navbar-collapse text-center" id="navbarTogglerDemo01">
                                         <ul className="navbar-nav m-auto mb-2 mb-lg-0">
                                             <li className="nav-item">
-                                                <NavLink className="nav-link active text-white" aria-current="page" to="/">Home</NavLink>
+                                                <NavLink className="nav-link active text-white" aria-current="page" to="/">Home </NavLink>
                                             </li>
                                             <li className="nav-item">
                                                 <NavLink className="nav-link text-white" to="/Destination">Destination</NavLink>
