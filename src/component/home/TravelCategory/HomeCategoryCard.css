@@ -1,0 +1,18 @@
+.HomeCategoryCard , .categoryImg{
+    border-radius: 40px;
+    height: 300px;
+}
+
+.HomeCategoryCard  .captionCategory {
+    position: absolute;
+    font-size: 3rem;
+}
+
+.CategoryImg {
+    max-height: 300px;
+    min-height: 300px;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

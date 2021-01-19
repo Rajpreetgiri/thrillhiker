@@ -1,0 +1,47 @@
+.loginbg {
+    margin: 0px!important;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background-color: #ff5d1f;
+}
+.loginbg .rightContent {
+    display: flex!important;
+    flex-direction: column!important;
+    justify-content: center!important;
+    align-items: center!important;
+}
+
+.loginbg .fa-map-marker {
+    font-size: 6rem!important;
+}
+.loginbg .taglines {
+    text-align: center;
+}
+
+.loginbg .registrationFrom {
+    background-color: #f8f8f8;
+    padding: 40px 80px 100px 30px;
+    border-radius: 16px 100px 100px 16px;
+    box-shadow: 1px 1px 4px #000;
+}
+
+.loginbg .loginBtn{
+    background-color: #ff5d1f!important;
+    border: none!important;
+    color: #fff!important;
+}
+
+.loginbg .headingRegister {
+    text-align: center;
+    margin-bottom: 45px;
+}
+.loginbg .registerationBackground{
+    background-image:url("https://images.unsplash.com/photo-1588392382834-a891154bca4d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 16px;
+}
+.loginbg .bold{
+    font-weight: 700;
+}

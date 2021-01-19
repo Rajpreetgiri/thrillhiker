@@ -1,0 +1,42 @@
+#mySidenav a {
+    position: absolute;
+    left: -180px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 200px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #ff5d1f;
+    border-radius: 0 5px 5px 0;
+    text-align: center;
+    font-family: 'Montserrat'!important;
+  }
+  
+  #mySidenav a:hover {
+    left: 0;
+  }
+  
+  #home {
+    top: 200px;
+    background-color: #ffffff;
+  }
+  
+  #destination {
+    top: 270px;
+    background-color: #fff;
+  }
+  
+  #trips {
+    top: 340px;
+    background-color: #fff;
+  }
+  
+  #blogs {
+    top: 410px;
+    background-color: #fff;
+  }
+  #enquiry {
+    top: 480px;
+    background-color: #fff;
+  }

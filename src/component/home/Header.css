@@ -1,0 +1,62 @@
+.top_header{
+    background-color:rgba(0,0,0,0.3);
+    
+    z-index: 9999;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.bottom_header{
+    position: relative;
+}
+
+.contact_header{
+    border-bottom:  0.5px solid #fff;
+    padding: 5px;
+}
+.contact , .login , .register{
+    padding: 5px 10px;
+    border-left: 0.5px solid #fff;
+    border-right: 0.5px solid #fff
+}
+.login , .register{
+    padding: 5px 20px;
+    font-size: 16px;
+}
+
+
+.fa-phone , .fa-arrow-right{
+    color: #fff;
+}
+.menu_bar {
+    height: 6rem;
+    width: 100%;
+}
+
+.nav-item {
+    padding: 1rem;
+    font-size: 18px;
+}
+.nav-item:hover a{
+    color: #ffdd00!important;
+    border-bottom: 2px solid #ffdd00;
+}
+
+.carousel-caption {
+    top: 35%!important;
+}
+.banner_btn {
+    background-color: transparent;
+    border-radius: 50px;
+    border : 1px solid #fff;
+    color: #ffdd00;
+    padding: 5px 35px 5px 5px;
+    margin-top: 2rem;
+}
+.btn_arrow {
+    background-color: #ffdd00;
+    padding: 12px 14px;
+    border-radius: 50%;
+    margin-right: 15px;
+}

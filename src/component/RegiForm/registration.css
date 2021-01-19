@@ -1,0 +1,43 @@
+.registerbg {
+    margin: 0px!important;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background-color: #ff5d1f;
+}
+.registerbg .rightContent {
+    display: flex!important;
+    flex-direction: column!important;
+    justify-content: center!important;
+    align-items: center!important;
+}
+
+.registerbg .fa-map-marker {
+    font-size: 10rem!important;
+}
+.registerbg .taglines {
+    text-align: center;
+}
+.registerbg .registrationFrom {
+    background-color: #f8f8f8;
+    padding: 50px 100px 50px 30px;
+    border-radius: 16px 100px 100px 16px;
+    box-shadow: 1px 1px 4px #000;
+}
+
+.registerbg .registerBtn{
+    background-color: #ff5d1f!important;
+    border: none!important;
+    color: #fff!important;
+}
+
+.registerbg .headingRegister {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.registerbg .registerationBackground{
+    background-image:url("https://images.unsplash.com/photo-1588392382834-a891154bca4d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 16px;
+}

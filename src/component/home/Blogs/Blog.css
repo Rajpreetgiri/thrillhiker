@@ -1,0 +1,18 @@
+.bottomCaptionBlog {
+    position: absolute;
+    bottom: 20px;
+    left: 15px;
+    right: 15px;
+}
+
+.blogAuthorName {
+    font-size: 12px;
+}
+.btnExplore {
+    font-size: 18px;
+}
+.blogExplore {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,21 @@
+.cardIcon {
+    margin-right: .5rem;
+    border: 1px solid #ff7300!important;
+    padding: 4px 8px;
+    border-radius: 6px;
+}
+
+.fakePrice {
+    text-decoration: line-through;
+    color: #878787;
+    font-size: 1.4rem;
+    margin-left: 15px;
+}
+
+.discount {
+    font-size: 1rem;
+}
+
+.card {
+    margin-bottom: 20px;
+}

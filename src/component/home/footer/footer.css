@@ -1,0 +1,24 @@
+.footerSection {
+    background-color: #424242;
+    margin-bottom: 0px!important;
+}
+.bottomFooter {
+    background-color: #666666;
+}
+.copyrights {
+    color: #959393;
+}
+.footerSection .fa {
+    font-size: 30px;
+    padding-right: 16px;
+}
+
+.footerSectionHeading {
+    margin: 2rem 0rem;
+}
+
+.footerHeadingBottomLine {
+    border-bottom: 2px solid #fff;
+    width: 14rem;
+    margin: auto;
+}
