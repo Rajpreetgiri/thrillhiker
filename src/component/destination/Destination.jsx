@@ -5,12 +5,14 @@ import PackageLink from '../home/PackageLink';
 import Cards from '../home/Cards';
 
 function Destination() {
+
+
     const [data, setData] = useState(null);
     const getData = (val) => {
         setData(val.target.value)
     }
-
     const Data = data;
+
     const LocationFrom = () => {
         const backendDestination = (PackageLink.map((val, index) => {
             return (<Cards keys={val.id} imgsrc={val.imgsrc} packagePrice={val.packagePrice} packageHeading={val.packageHeading} packageDetails={val.packageDetails}
